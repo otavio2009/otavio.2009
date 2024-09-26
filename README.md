@@ -1,4 +1,4 @@
-# Repositório de Códigos do Otavio Haagsma  Patrzyk 👨‍💻
+# Repositório de Códigos do Otavio Haagsma Patrzyk 👨‍💻
 
 Olá! Meu nome é **Otavio Haagsma Patrzyk** e estou fazendo o curso na **Alura**. Este repositório é dedicado a armazenar meus códigos desenvolvidos durante o curso. 
 
@@ -12,10 +12,9 @@ Neste repositório, você encontrará diversos projetos e exercícios que estou 
 - **Frameworks:** React, Node.js
 - **Ferramentas:** Git, GitHub, Visual Studio Code
 
-
 ## JOGO PONG 🏓
 
-Sinta-se livre para sugerir melhorias ou correções! Feedback é sempre bem-vindo.
+<img src="https://cdn.dribbble.com/users/2092880/screenshots/6426030/pong_1.gif" alt="Jogo Pong" width="300"/>
 
 ## Contato 📬
 
